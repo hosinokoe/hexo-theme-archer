@@ -2,15 +2,15 @@
 # avatar
 avatar: /avatar/Misaka.jpg
 # author name
-author: fi3ework
+author: Xiao
 # signature
 signature: witness me
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: hosinokoe@163.com
+  github: https://github.com/hosinokoe
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: /assets/qr.png
   # qq should be a path of qr-code image path
   qq: 
   telegram: 
@@ -31,8 +31,9 @@ social:
   rss: 
 # friends
 friends:
-  # friendA: //www.baidu.com
-  # friendB: //www.google.com
+  Xu's Memos: //mangzhexuexi.com
+  Lyf: //lei-yf.top
+  Liao: //msinwolc.fun
 about:
   enable: true
   image: '/intro/about-bg.jpg'
@@ -62,16 +63,16 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: hosinokoe's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: hosinokoe's blog
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Don't worry.Just try it!
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -87,7 +88,7 @@ read_more_button: false
 # Enable toc
 toc: true
 # Word count & Reading time
-reading_info: false
+reading_info: true
 # Intro height (the default is 50 percents of the screen, you can input other number)
 index_intro_height: 50
 post_intro_height: 50
@@ -121,7 +122,7 @@ algolia_search:
 # If you want to add other comment plugin, edit in "custom.ejs"
 comment:
   # Livere  site: https://livere.com/
-  livere_uid: 
+  livere_uid: MTAyMC81NDYwMy8zMTA3NA==
   # Disqus  site: https://disqus.com/
   disqus_shortname: 
   # Gitment  site: https://github.com/imsun/gitment
